@@ -25,6 +25,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 -  Remapped lock/em/up 
 -  Fixed Elaine Boosler's quote
 -  Added method shucks in Welcome
+-  Added last subfolder in controller and added Welcome.php for Issue #2
 
 ## Version 1.0 ##
 
